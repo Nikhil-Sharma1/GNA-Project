@@ -8,7 +8,7 @@ mydb=mysql.connector.connect(
 )
 
 mycursor=mydb.cursor()
-# mycursor.execute("CREATE DATABASE testdb2")
+# mycursor.execute("CREATE database testdb2")
 
 #mycursor.execute("SHOW DATABASES")
 #for db in mycursor:
