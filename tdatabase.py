@@ -23,7 +23,7 @@ mycursor=mydb.cursor()
 # mycursor.execute(sqlStuff,record1)
 # mydb.commit()
 
-# sqlStuff="INSERT INTO teacher (username,pwd) VALUES (%s,%s)"
+# SqlStuff="INSERT INTO teacher (username,pwd) VALUES (%s,%s)"
 # record1=("pooja","pooja")
 # mycursor.execute(sqlStuff,record1)
 # mydb.commit()
